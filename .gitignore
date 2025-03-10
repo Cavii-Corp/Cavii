@@ -24,3 +24,4 @@ pnpm-debug.log*
 
 
 id_rsa_fixed.pem
+.env
