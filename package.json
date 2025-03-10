@@ -16,7 +16,10 @@
   "main": "index.js",
   "dependencies": {
     "core-js": "^3.8.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "node-ssh": "^13.2.0",
+    "ssh2": "^1.16.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
