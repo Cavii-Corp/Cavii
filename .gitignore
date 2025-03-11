@@ -25,3 +25,5 @@ pnpm-debug.log*
 
 id_rsa_fixed.pem
 .env
+#Electron-builder output
+/dist_electron
