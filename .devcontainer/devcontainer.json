@@ -13,7 +13,7 @@
 	
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// this contain all thing necessary for electron on devcontainer  
-	 "postCreateCommand": "sudo apt update && sudo apt install -y libnss3 libdbus-1-3 libatk1.0-0 libx11-xcb1 libxcomposite1 libxdamage1 libxrandr2 libasound2 libpangocairo-1.0-0 libpango-1.0-0 libcups2 libatk-bridge2.0-0 libxkbcommon-x11-0 libgtk-3-0 libgbm1 && xhost +local:docker",
+	 "postCreateCommand": "sudo apt update && sudo apt install -y libnss3 libdbus-1-3 libatk1.0-0 libx11-xcb1 libxcomposite1 libxdamage1 libxrandr2 libasound2 libpangocairo-1.0-0 libpango-1.0-0 libcups2 libatk-bridge2.0-0 libxkbcommon-x11-0 libgtk-3-0 libgbm1"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
